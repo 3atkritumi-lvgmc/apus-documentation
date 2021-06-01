@@ -15,3 +15,4 @@
 6. [Procesu diagrammas](./pages/processes.md)
 7. [Validācijas diagrammas](./pages/validation.md)
 8. [Zināmās problēmas](./pages/known-problems.md)
+8. [Izmaiņas (changelist)](./pages/change-list.md)
