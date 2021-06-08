@@ -3,7 +3,7 @@
 Webservice ir izveidots RESTful tehnoloģijā ar JSON kā datu apmaiņas formātu. Autentifikācijai tiek izmantoti JWT žetoni (tālāk token).
 
 Tehniskais resursu apraksts ir pieejams adresē: [https://services.proofit.lv/APUS/swagger-ui.html](https://services.proofit.lv/APUS/swagger-ui.html). Šajā aprakstā ir pieejama informācija par pieejamajiem resursiem, datu tipiem un izmantotajām HTTP metodēm.
-Vairāk par Swagger UI lietošanu lasīt [šeit](./pages/swagger-ui)
+Vairāk par Swagger UI lietošanu lasīt [šeit](./swagger-ui)
 
 Testa vides WEB adrese ir : [https://services.proofit.lv/APUS/](https://services.proofit.lv/APUS/)
 
