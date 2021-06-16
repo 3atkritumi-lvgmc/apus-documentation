@@ -10,4 +10,6 @@
 ## Pavadzīmes pilns saskaņošanas process
 
 ![Pavadzīmes pilns saskaņošanas process](../assets/process/confirm.png)
+*Sistēma paredz, ka ja pavadzīmē ir starpnieks (atkritumu tirgotājs), tad šis lietotājs vai nu būs atbildīgā persona par pavadzīmi, vai arī uzņēmumam nebūs APUS lietotāja.
 
+**Plūsma attiecas uz katru pavadzīmē pieminēto pārvadātāju
