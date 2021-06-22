@@ -11,6 +11,7 @@
 2. [Tehniskā informācija](./pages/technical-information.md)
 3. [Swagger UI](./pages/swagger-ui.md)
 4. [Biežāk uzdotie jautājumi (BUJ)](./pages/faq.md)
+5. [Fizisko personu piegādātie atkritumi (Latvijas iedzīvotāji)](./pages/inhabitants-of-latvia.md)
 5. [Pavadzīmes lauku sasaiste (UI vs. REST)](./pages/invoice-field-mapping.md)
 6. [Procesu diagrammas](./pages/processes.md)
 7. [Validācijas diagrammas](./pages/validation.md)
