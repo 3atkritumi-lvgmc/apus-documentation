@@ -5,6 +5,14 @@
 
 ![LVAF](./assets/lvaf.jpg)
 
+## Paziņojums - 2021. gada 1. jūlijs
+
+Ir stājušies spēkā [Ministru kabineta noteikumi Nr. 113](https://likumi.lv/ta/id/321151), kas nozīmē, ka šī APUS versija ir pieejama produkcijas režīmā.
+
+APUS adrese : [http://parissrv.lvgmc.lv/APUS](http://parissrv.lvgmc.lv/APUS)
+
+Webservice adrese :  [http://parissrv.lvgmc.lv/APUS/rest](http://parissrv.lvgmc.lv/APUS/rest)
+
 ## Saturs
 
 1. [Ievads](./pages/introduction.md)
