@@ -24,6 +24,7 @@ APUS šī datu struktūra tiek uzturēta komplicētāka kā vienkāršs adreses 
 | /rest/ws/facilities/ | POST          | https://services.proofit.lv/APUS/swagger-ui.html#/ws-facility-controller |
 
 ### Objektu lauki
+
 | Lauks                 | Obligāts | Apraksts                                                                                                                                 |
 | ---                   | ---      | ---                                                                                                                                      |
 | name                  | Jā       | Objekta nosaukums, kas paskaidro adreses datus (piemēram, norāda konkrētu noliktavas ēku)                                                |
