@@ -1,5 +1,9 @@
 # Izmaiņas (changelist)
 
+* 2021.07.12 (tikai testa vide)
+    * Pievienots jauna objekta (adreses) ievadīšanas webserviss. Vairāk skatīt [šeit](./facility-address.md)
+    
+    
 * 2021.06.22
     * Izveidots jauna uzņēmuma ievadīšanas/ eksistējoša uzņēmuma labošanas webserviss, kā arī izmainīta uzņēmuma datu objekta struktūra webservisā (skatīt vairāk [Swagger-UI](https://services.proofit.lv/APUS/swagger-ui.html#/ws-organization-controller))
     * Atbilstoši MK noteikumiem ir pievienota iespēja kā nosūtītāju un pārvadātāju norādīt "Latvijas iedzīvotāji" - vairāk skatīt [šeit](./inhabitants-of-latvia.md)
