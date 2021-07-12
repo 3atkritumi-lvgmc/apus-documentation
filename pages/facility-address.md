@@ -24,19 +24,19 @@ APUS šī datu struktūra tiek uzturēta komplicētāka kā vienkāršs adreses 
 | /rest/ws/facilities/ | POST          | https://services.proofit.lv/APUS/swagger-ui.html#/ws-facility-controller |
 
 ### Objektu lauki
-| Lauks                 | Obligāts | Apraksts |
-| ---                   | ---      | --- |
-| name                  | Jā       | Objekta nosaukums, kas paskaidro adreses datus (piemēram, norāda konkrētu noliktavas ēku) |
-| code                  | Nē       | Šo lauku ģenerēs APUS. References lauks, ko vēlāk izmantot pavadzīmju iesūtīšanā |
-| typeCode              | Jā       | Nosūtītāja vai saņēmēja tips - skatīt **/rest/ws/classifiers/facility-type** |
-| description           | Nē       | Papildus lauks paskaidrojumiem |
-| fullAddress           | Jā       | Adrese - norādīta tekstuālā veidā, piemēram, "Latvijas Republika, Rīga, Baznīcas iela 19/23" 
-| atvkCode*             | Daļēji   | ATVK klasifikatora kods. Obligāts, ja organization.id norādīta Latvijas Republikā reģistrēta organizācija |
-| organization          | Daļēji   | Jānorāda **organization.id** vai arī **person.personCode** |
-| person                | Daļēji   | Jānorāda **organization.id** vai arī **person.personCode** |
-| addressRegistryCode** | Nē       | Valsts zemes dienesta adrešu reģistra ieraksta kods - ja Jūsu sistēma izmanto VZD adrešu reģistra, tad variet šo kodu norādīt jau šobrīd|
-| email                 | Nē       |  |
-| phone                 | Nē       |  |
+| Lauks                 | Obligāts | Apraksts                                                                                                                                 |
+| ---                   | ---      | ---                                                                                                                                      |
+| name                  | Jā       | Objekta nosaukums, kas paskaidro adreses datus (piemēram, norāda konkrētu noliktavas ēku)                                                |
+| code                  | Nē       | Šo lauku ģenerēs APUS. References lauks, ko vēlāk izmantot pavadzīmju iesūtīšanā                                                         |
+| typeCode              | Jā       | Nosūtītāja vai saņēmēja tips - skatīt **/rest/ws/classifiers/facility-type**                                                             |
+| description           | Nē       | Papildus lauks paskaidrojumiem                                                                                                           |
+| fullAddress           | Jā       | Adrese - norādīta tekstuālā veidā, piemēram, "Latvijas Republika, Rīga, Baznīcas iela 19/23"                                             | 
+| atvkCode*             | Daļēji   | ATVK klasifikatora kods. Obligāts, ja organization.id norādīta Latvijas Republikā reģistrēta organizācija                                |
+| organization          | Daļēji   | Jānorāda **organization.id** vai arī **person.personCode**                                                                               |
+| person                | Daļēji   | Jānorāda **organization.id** vai arī **person.personCode**                                                                               |
+| addressRegistryCode** | Nē       | Valsts zemes dienesta adrešu reģistra ieraksta kods - ja Jūsu sistēma izmanto VZD adrešu reģistra, tad variet šo kodu norādīt jau šobrīd |
+| email                 | Nē       |                                                                                                                                          |
+| phone                 | Nē       |                                                                                                                                          |
 
 [*] - ATVK iespējamo vērtību iegūšanu skatīt nodaļā "ATVK klasifikators"
 
