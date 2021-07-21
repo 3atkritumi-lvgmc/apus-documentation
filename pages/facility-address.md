@@ -41,7 +41,7 @@ APUS šī datu struktūra tiek uzturēta komplicētāka kā vienkāršs adreses 
 
 [*] - ATVK iespējamo vērtību iegūšanu skatīt nodaļā "ATVK klasifikators"
 
-[**] - Ir iespējams, ka sākot ar 2021. gada 1. janvāri APUS sistēmā nebūs vairs iespējams ievadīt lauku "fullAddress" - tikai lauku "addressRegistryCode", tāpēc variet sākt pielāgot Jūsu informācijas sistēmas jau šobrīd.
+[**] - Ir iespējams, ka sākot ar 2022. gada 1. janvāri APUS sistēmā nebūs vairs iespējams ievadīt lauku "fullAddress" - tikai lauku "addressRegistryCode", tāpēc variet sākt pielāgot Jūsu informācijas sistēmas jau šobrīd.
 
 ### ATVK klasifikators
 APUS sistēma balstās uz [administratīvo teritoriju un teritoriālo vienību klasifikatoru](https://www.csb.gov.lv/lv/statistika/klasifikacijas/atvk).
