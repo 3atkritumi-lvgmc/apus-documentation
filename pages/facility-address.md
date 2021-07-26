@@ -1,7 +1,5 @@
 # Adreses (objekti) un to papildināšana
 
-**N.B.! - Šobrīd jauna objekta iesūtīšana ir pieejama tikai [APUS testa vidē](https://services.proofit.lv/APUS)!**
-
 Objekts (facility) - APUS kontekstā ir nosūtīšanas vai saņemšanas adrese, kas ir reģistrēta organizācijai vai fiziskai personai. 
 APUS šī datu struktūra tiek uzturēta komplicētāka kā vienkāršs adreses lauks, jo:
 * Vienā adresē var atrasties vairāki uzņēmumi - tāpēc nepieciešams objekta nosaukuma lauks, kurā var precīzi aprakstīt, piemēram, noliktavu, no kuras ir nākuši atkritumi.
