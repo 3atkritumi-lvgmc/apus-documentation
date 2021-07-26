@@ -1,5 +1,9 @@
 # Izmaiņas (changelist)
 
+* 2021.07.26 - produkcijas vide
+    * Pievienots jauna objekta (adreses) ievadīšanas webserviss. Vairāk skatīt [šeit](./facility-address.md)
+    * Excel eksporta kolonnu tipi salaboti (skaitļu kolonnas tiek atpazīstas kā skaitļi)
+
 * 2021.07.12 (tikai testa vide)
     * Pievienots jauna objekta (adreses) ievadīšanas webserviss. Vairāk skatīt [šeit](./facility-address.md)
     
